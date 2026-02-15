@@ -24,7 +24,7 @@ Akıllı Mantık: Eğer bir şehirde birden fazla milli park varsa, şehir tüm 
 Animasyonlar: Doğru/yanlış cevaplar için özel CSS keyframes efektleri kullanılmıştır.
 
 🚀 Hızlı Başlangıç
-milli-parklar.html dosyasını indirin.
+`milli-parklar.html` dosyasını indirin.
 
 Dosyayı herhangi bir modern tarayıcıda (Chrome, Firefox, Safari) açın.
 
